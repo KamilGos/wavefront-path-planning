@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center"> wavefront-path-planning </h1>
-<h2 align="center"> Path planning algorithm based on a grid map using wavefront approach for mobile robots. 
+<h2 align="center"> Path planning algorithm based on a grid map using wavefront approach for mobile robots
  </h2>
 
 <!-- https://shields.io/ -->
